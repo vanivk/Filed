@@ -12,7 +12,7 @@
 * NUnit for testing
 * EntityFramework Core
 * FluentValidation
-* Repository Pattern with Unit of Work
+* Repository Pattern nested inside Unit of Work pattern
 * WebAPI 
 
 ##### Please note: I tried using .Net5 but NUnit was not compatible with .Net5 so switched back to .NetCore3.1
